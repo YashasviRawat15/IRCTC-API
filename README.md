@@ -1,10 +1,5 @@
 # IRCTC Railway Management System
 
-## Problem Statement
-
-Hey there, Mr. X. You have been assigned the task of designing a **Railway Management System** similar to IRCTC. Users should be able to search for available trains between two stations, check seat availability, and book seats if available. The system must support real-time seat booking with concurrency control to prevent multiple users from booking the same seat simultaneously.
-
----
 
 This project is a **Railway Management System** built using **Node.js**, **Express.js**, and **MySQL**. It provides functionalities for train bookings, seat availability checking, and role-based access for users and admins.
 
